@@ -5,6 +5,21 @@ v1.0, 2015-30-11
 
 == Themes
 
+[square]
+- Coding
+- Art
+- Technology
+- Human Body
+- Nature
+- Language
+- Urbanism
+- Data
+- Architecture
+- Food
+- Tools
+- Transportation
+
+
 == Sample Theme
 
 Theme: Coding
@@ -24,13 +39,16 @@ Theme: Coding
 - Git for Research
 - Open Sourcing the Academy
 
+
 == Sample Course
 
 https://fake-link.com
 
+
 == Glossary
 
 https://github.com/OffCourse/glossary
+
 
 == Styling
 
