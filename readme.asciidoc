@@ -36,9 +36,9 @@ https://github.com/OffCourse/glossary
 
 All Donald's styling instructions can be found here:
 
-https://fake-link.com
+https://github.com/OffCourse/styleguide
 
-Our fonts are: Nitti and Nitti Grotesk. They can be downloaded from our dev git repo.
+Our fonts (Nitti and Nitti Grotesk) can be downloaded from our dev git repo.
 
 https://github.com/yeehaa123/offcourse-fullstack/tree/master/resources/public/fonts
 
