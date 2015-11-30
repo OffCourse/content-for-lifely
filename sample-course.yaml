@@ -8,12 +8,6 @@
   programming skills to develop basic tools
   goal: |
     Learn basic programming skills to develop your own tools for humanities research
-  tags:
-    - programming
-    - humanities
-    - web
-    - javascript
-    - tools
   checkpoints:
     - task: Read text
       order: 1
