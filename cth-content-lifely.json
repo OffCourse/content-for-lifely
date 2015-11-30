@@ -1,0 +1,284 @@
+{
+	"course_id": "Coding the Humanities",
+	"curator": "marijn",
+	"description": "Students and scholars in the humanities generally rely on prefabricated tools to guide and instruct their research and are reluctant to engage with computers and technology through coding. This course teaches programming skills to develop basic tools",
+	"goal": "Learn basic programming skills to develop your own tools for humanities research",
+	"tags": ["programming", "humanities", "web", "javascript", "tools"],
+	"checkpoints": [
+		{
+			"task": "Read text",
+			"order": 1,
+			"tags": ["blog post", "coding"],
+			"resource_id": 1
+		},
+		{
+			"task": "Read text",
+			"order": 2,
+			"tags": ["blog post", "coding"],
+			"resource_id": 2
+		},
+		{
+			"task": "Do tutorial",
+			"order": 3,
+			"tags": ["codecademy", "html", "css", "coding"],
+			"resource_id": 3
+		},
+		{
+			"task": "Hand in assignment",
+			"order": 4,
+			"tags": ["assignment", "html", "css", "javascript", "coding"],
+			"resource_id": 4
+		},
+		{
+			"task": "Do tutorial",
+			"order": 5,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 5
+		},
+		{
+			"task": "Do tutorial",
+			"order": 6,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 6
+		},
+		{
+			"task": "Watch video",
+			"order": 7,
+			"tags": ["javascript", "coding"],
+			"resource_id": 7
+		},
+		{
+			"task": "Hand in assignment",
+			"order": 8,
+			"tags": ["assignment", "javascript", "coding"],
+			"resource_id": 8
+		},
+		{
+			"task": "Do tutorial",
+			"order": 9,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 9
+		},
+		{
+			"task": "Do tutorial",
+			"order": 10,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 10
+		},
+		{
+			"task": "Do tutorial",
+			"order": 11,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 11
+		},
+		{
+			"task": "Hand in assignment",
+			"order": 12,
+			"tags": ["assignment", "javascript", "coding"],
+			"resource_id": 12
+		},
+		{
+			"task": "Read text",
+			"order": 13,
+			"tags": ["blog post", "humanities", "API"],
+			"resource_id": 13
+		},
+		{
+			"task": "Read text",
+			"order": 14,
+			"tags": ["blog post", "mashups", "API"],
+			"resource_id": 14
+		},
+		{
+			"task": "Do tutorial",
+			"order": 15,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 15
+		},
+		{
+			"task": "Do tutorial",
+			"order": 16,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 16
+		},
+		{
+			"task": "Read text",
+			"order": 17,
+			"tags": ["templating", "coding"],
+			"resource_id": 17
+		},
+		{
+			"task": "Read text",
+			"order": 18,
+			"tags": ["templating", "coding"],
+			"resource_id": 18
+		},
+		{
+			"task": "Do tutorial",
+			"order": 19,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 19
+		},
+		{
+			"task": "Do tutorial",
+			"order": 20,
+			"tags": ["tutorial", "javascript", "coding"],
+			"resource_id": 20
+		},
+		{
+			"task": "Hand in assignment",
+			"order": 21,
+			"tags": ["assignment", "project", "coding"],
+			"resource_id": 21
+		}
+	],
+	"resources": [
+		{
+			"resource_id": 1,
+			"resource_type": "text",
+			"author": "Stephen Ramsay",
+			"title": "Learning to Program",
+			"url": "http://stephenramsay.us/2012/06/10/learning-to-program/"
+		},
+		{
+			"resource_id": 2,
+			"resource_type": "text",
+			"author": "Stephen Ramsay",
+			"title": "On Building",
+			"url": "http://stephenramsay.us/text/2011/01/11/on-building/"
+		},
+		{
+			"resource_id": 3,
+			"resource_type": "tutorial",
+			"author": "Codecademy",
+			"title": "Making a Website",
+			"url": "https://www.codecademy.com/en/skills/make-a-website"
+		},
+		{
+			"resource_id": 4,
+			"resource_type": "text",
+			"url": "http://humanities.uva.nl/~mkoolen1/teaching/#/CtH/2015/assignments/assignment1",
+			"title": "Rotating images",
+			"deadline": "04/11/2015"
+		},
+		{
+			"resource_id": 5,
+			"resource_type": "tutorial",
+			"author": "Codecademy",
+			"title": "Make an Interactive Website",
+			"url": "https://www.codecademy.com/en/skills/make-an-interactive-website"
+		},
+		{
+			"resource_id": 6,
+			"resource_type": "tutorial",
+			"author": "Khan Academy",
+			"title": "Intro to JS: Drawing and Animation (up to and including the section on Functions)",
+			"url": "https://www.khanacademy.org/computing/computer-programming/programming"
+		},
+		{
+			"resource_id": 7,
+			"resource_type": "video",
+			"author": "YouTube",
+			"title": "JavaScript & jQuery tutorial for beginners",
+			"url": "https://www.youtube.com/watch?v=VRnQOcVclS8"
+		},
+		{
+			"resource_id": 8,
+			"resource_type": "text",
+			"url": "http://humanities.uva.nl/~mkoolen1/teaching/#/CtH/2015/assignments/assignment2",
+			"title": "Buttons for guessing and swapping images",
+			"deadline": "11/11/2015"
+		},
+		{
+			"resource_id": 9,
+			"resource_type": "tutorial",
+			"author": "Codecademy",
+			"title": "JavaScript",
+			"url": "https://www.codecademy.com/en/tracks/javascript"
+		},
+		{
+			"resource_id": 10,
+			"resource_type": "tutorial",
+			"author": "Khan Academy",
+			"title": "Intro to JS: Drawing and Animation (all the way to the end)",
+			"url": "https://www.khanacademy.org/computing/computer-programming/programming"
+		},
+		{
+			"resource_id": 11,
+			"resource_type": "tutorial",
+			"author": "Charlotte van Oostrum",
+			"title": "Coding the Humanities survey on learning",
+			"url": "https://docs.google.com/forms/d/1K89-VoNFOsj_qeIimgKh18B8t5Tofujep9WzWWDE8xk/viewform"
+		},
+		{
+			"resource_id": 12,
+			"resource_type": "text",
+			"url": "http://humanities.uva.nl/~mkoolen1/teaching/#/CtH/2015/assignments/assignment3",
+			"title": "Getting image URLs from external sources",
+			"deadline": "18/11/2015"
+		},
+		{
+			"resource_id": 13,
+			"resource_type": "text",
+			"author": "Stephen Ramsay",
+			"title": "Humanities APIs",
+			"url": "http://stephenramsay.us/2009/10/17/humanities-apis/"
+		},
+		{
+			"resource_id": 14,
+			"resource_type": "text",
+			"author": "Barb Dybwad",
+			"title": "8 Awesome Mashups Made Possible by APIs",
+			"url": "http://mashable.com/2009/10/08/top-mashups/#nWfVcoLUvPqR"
+		},
+		{
+			"resource_id": 15,
+			"resource_type": "tutorial",
+			"author": "Codecademy",
+			"title": "Soundcloud API",
+			"url": "https://www.codecademy.com/en/tracks/soundcloud"
+		},
+		{
+			"resource_id": 16,
+			"resource_type": "tutorial",
+			"author": "Codecademy",
+			"title": "YouTube API",
+			"url": "https://www.codecademy.com/en/tracks/youtube"
+		},
+		{
+			"resource_id": 17,
+			"resource_type": "text",
+			"author": "Matthew Kirschenbaum",
+			"title": "Hello Worlds",
+			"url": "http://chronicle.com/article/Hello-Worlds/5476"
+		},
+		{
+			"resource_id": 18,
+			"resource_type": "text",
+			"author": "Stephen Ramsay",
+			"title": "Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities",
+			"url": "http://books.openedition.org/obp/1642?lang=en"
+		},
+		{
+			"resource_id": 19,
+			"resource_type": "text",
+			"author": "Handlebars.js",
+			"title": "Handlebars",
+			"url": "http://handlebarsjs.com/"
+		},
+		{
+			"resource_id": 20,
+			"resource_type": "text",
+			"author": "JavaScript.isSexy",
+			"title": "Handlebars.js Tutorial",
+			"url": "http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/"
+		},
+		{
+			"resource_id": 21,
+			"resource_type": "text",
+			"url": "http://humanities.uva.nl/~mkoolen1/teaching/#/CtH/2015/deliverables",
+			"title": "Final project",
+			"deadline": "17/12/2015"
+		}
+	]
+}
