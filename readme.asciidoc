@@ -19,6 +19,8 @@ v1.0, 2015-30-11
 - Tools
 - Transportation
 
++++*+++ JH: I still have doubts whether or not adding themes is a good idea...
+It's okay for demo purposes, but needs to be reevaluated before moving on.
 
 == Sample Theme
 
@@ -52,7 +54,7 @@ https://github.com/OffCourse/glossary
 
 == Styling
 
-All Donald's styling instructions can be found here:
+All Donald's styling instructions and mockups can be found here:
 
 https://github.com/OffCourse/styleguide
 
