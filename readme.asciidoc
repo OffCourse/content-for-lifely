@@ -44,8 +44,7 @@ Theme: Coding
 
 == Sample Course
 
-https://fake-link.com
-
+https://github.com/OffCourse/content-for-lifely/blob/master/cth-content-lifely.json
 
 == Glossary
 
