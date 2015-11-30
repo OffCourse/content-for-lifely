@@ -44,7 +44,7 @@ Theme: Coding
 
 == Sample Course
 
-https://github.com/OffCourse/content-for-lifely/blob/master/cth-content-lifely.json
+https://github.com/OffCourse/content-for-lifely/blob/master/sample-course.yaml
 
 == Glossary
 
