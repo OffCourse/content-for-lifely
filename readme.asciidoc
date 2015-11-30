@@ -31,3 +31,15 @@ https://fake-link.com
 == Glossary
 
 https://github.com/OffCourse/glossary
+
+== Styling
+
+All Donald's styling instructions can be found here:
+
+https://fake-link.com
+
+Our fonts are: Nitti and Nitti Grotesk. They can be downloaded from our dev git repo.
+
+https://github.com/yeehaa123/offcourse-fullstack/tree/master/resources/public/fonts
+
+Beware not to use them elsewhere though. They are licensed.
