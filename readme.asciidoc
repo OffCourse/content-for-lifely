@@ -1,0 +1,33 @@
+Sample Content for Offcourse
+============================
+Author Name <yeehaa@offcourse.io§>
+v1.0, 2015-30-11
+
+== Themes
+
+== Sample Theme
+
+Theme: Coding
+
+.Courses:
+[square]
+- Coding the Humanities
+- From Object to Data
+- The Web as Publication Platform
+- Visualizing Data
+- Putting the Big Back in Data
+- Augmenting Masterpieces
+- The Human Body as Big Data
+- The City as Interface
+- HTML for Humanists
+- Rocking Recommendation Systems
+- Git for Research
+- Open Sourcing the Academy
+
+== Sample Course
+
+https://fake-link.com
+
+== Glossary
+
+https://github.com/OffCourse/glossary
