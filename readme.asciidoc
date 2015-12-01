@@ -44,7 +44,7 @@ Theme: Coding
 
 == Sample Course
 
-https://github.com/OffCourse/content-for-lifely/blob/master/sample-course.yaml
+JH: Charlotte still has to make some final edits to this one. We will add it here, later tomorrow.
 
 == Glossary
 
