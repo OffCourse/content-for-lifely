@@ -2,61 +2,54 @@
   course_id: Coding the Humanities
   curator: marijn
   description: |
-    Students and scholars in the humanities generally rely on prefabricated
-  tools to guide and instruct their research and are reluctant to engage
-  with computers and technology through coding. This course teaches
-  programming skills to develop basic tools
+    Coding the Humanities teaches programming fundamentals, providing you the skills to build your own tools and apps.
   goal: |
     Learn basic programming skills to develop your own tools for humanities research
   checkpoints:
-    - task: Read text
+    - task: Read: 'Hello World!'
       order: 1
       tags:
         - blog post
-        - coding
-      resource_id: 1
-    - task: Read text
-      order: 2
-      tags:
-        - blog post
-        - coding
-      resource_id: 2
-    - task: Do tutorial
-      order: 3
-      tags:
-        - codecademy
         - html
         - css
-        - coding
-      resource_id: 3
-    - task: Hand in assignment
-      order: 4
+      resource_id: 1
+    - task: Complete: 'My First Website'
+      order: 2
       tags:
         - assignment
         - html
         - css
-        - javascript
-        - coding
+      resource_id: 2
+    - task: Complete: 'HTML and CSS'
+      order: 3
+      tags:
+        - assignment
+        - html
+        - css
+      resource_id: 3
+    - task: READ: 'Fun with CSS'
+      order: 4
+      tags:
+        - blog post
+        - css
       resource_id: 4
-    - task: Do tutorial
+    - task: Read: "What's a 'script'?"
       order: 5
       tags:
-        - tutorial
+        - blog post
         - javascript
-        - coding
       resource_id: 5
-    - task: Do tutorial
+    - task: Read: 'Website VS Web App'
       order: 6
       tags:
-        - tutorial
+        - blog post
+        - html
         - javascript
-        - coding
       resource_id: 6
-    - task: Watch video
+    - task: Watch: 'In the Console'
       order: 7
       tags:
         - javascript
-        - coding
       resource_id: 7
     - task: Hand in assignment
       order: 8
