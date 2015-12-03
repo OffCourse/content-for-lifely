@@ -86,7 +86,7 @@
       title: JavaScript & jQuery tutorial for beginners
       url: "https://www.youtube.com/watch?v=VRnQOcVclS8"
     - resource_id: 7
-      resource_type: "text"
+      resource_type: text
       url: http://humanities.uva.nl/~mkoolen1/teaching/#/CtH/2015/assignments/assignment2
       title: Buttons for guessing and swapping images
       deadline: 11/11/2015
